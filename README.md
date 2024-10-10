@@ -8,7 +8,7 @@ Following is a series of snap showing the two phases (Raw | Fragmented Image)
 <img src="images/Readme/demo_image.jpg" alt="input_image" width="360" height="202"/><img src="images/Readme/out.jpg" alt="output_image" width="360" height="202"/>
 
 1. Python3.7
-2. If Docker Approach is selcted:
+2. If Docker Approach is selected:
    1. Docker
    2. Docker Compose
 
